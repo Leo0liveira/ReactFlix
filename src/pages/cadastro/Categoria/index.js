@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import PageDefault from '../../../Components/PageDefault';
+import PageDefault from '../../../components/PageDefault';
 
 function CadastroCategoria() {
   return (
