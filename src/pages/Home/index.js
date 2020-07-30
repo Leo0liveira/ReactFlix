@@ -13,7 +13,7 @@ function Home() {
       <BannerMain 
       videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
       url={dadosIniciais.categorias[0].videos[0].url}
-      videoDescription={""}
+      videoDescription={"O sonho de Yukihira Souma é se tornar um chef no restaurante de seu pai e superar a culinária dele. Mas assim que Yukihira se forma no ensino fundamental, seu pai, Jouichirou, fecha o restaurante para ir cozinhar na Europa. Apesar de estar para baixo, o espírito lutador de Souma reacende quando seu pai o desafia a sobreviver numa escola de culinária de elite onde só 10% dos alunos se formam. Será que Souma sobreviverá?"}
       />
 
       <Carousel

@@ -1,180 +1,187 @@
 {
   "categorias": [
     {
-      "titulo": "Naruto",
+      "titulo": "Shounen",
       "link": "https://www.youtube.com/watch?v=SHTXpNfK2R8",
       "cor": "orange",
-      "link_extra": {
-        "text": "O MELHOR ANIME DE TODOS OS TEMPOS",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
-      },
       "videos": [
         {
-          "titulo": "Todas as aberturas Inuyasha",
-          "url": "https://www.youtube.com/watch?v=W4wtpnDGANo&feature=emb_rel_pause"
+          "titulo": "Shokugeki no Souma",
+          "url": "https://www.youtube.com/watch?v=--v6zWSR_Ko",
+          "text":""
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=jq824hrfCuc"
+          "titulo": "Naruto",
+          "url": "https://www.youtube.com/watch?v=uMyuSHewmks&t=683s"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=Dm_pTqLRuMo"
+          "titulo": "Boku no Hero",
+          "url": "https://www.youtube.com/watch?v=L1FdEBTJXus"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=3Pt61puO3v4"
+          "titulo": "Dragon Ball Super",
+          "url": "https://www.youtube.com/watch?v=_1R6-RiClss&t=1s"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=yEKbISyeolo"
+          "titulo": "Kimetsu no Yaiba",
+          "url": "https://www.youtube.com/watch?v=Sl2k7bfBeCw"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=x4Xt3P7FQ2M&t=1s"
+          "titulo": "Enen no Shouboutai",
+          "url": "https://www.youtube.com/watch?v=ruX5qQ1sheo"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=SHTXpNfK2R8"
+          "titulo": "Shingeki no Kyojin",
+          "url": "https://www.youtube.com/watch?v=Dq6rrfZlGP0"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=MBcRystSXSQ&t=178s"
-        }        
-      ]
-    },
-    {
-      "titulo": "Trilhas Sonoras",
-      "cor": "blue",
-      "link_extra": {
-        "text": "Trilha Sonora de Animes",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
-      },
-      "videos": [
-        {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UIwK1w52_9Q"
+          "titulo": "Fullmetal Alchemist Brotherhood",
+          "url": "https://www.youtube.com/watch?v=X59yPeVk_70"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=wMVp1G63WNU"
-        },
-        {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=n1sk-0k6ysc"
-        },
-        {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=218ELDhIiGY"
+          "titulo": "One Punch Man",
+          "url": "https://www.youtube.com/watch?v=U19tpn5WUDc"
         }
       ]
     },
     {
-      "titulo": "Haikyuu",
-      "cor": "orange",
-      "link_extra": {
-        "url": "https://www.alura.com.br/formacao-data-science"
-      },
+      
+      "titulo": "Ação",
+      "cor": "#AF00FB",
       "videos": [
         {
-          "titulo": "Teste de Turing",
+          "titulo": "Goblin Slayer",
+          "url": "https://www.youtube.com/watch?v=3CK2oKrmMQQ"
+        },
+        {
+          "titulo": "The God of HighSchool",
+          "url": "https://www.youtube.com/watch?v=oqjwUfprNAk"        
+        },
+        {
+          "titulo": "Tower of God",
+          "url": "https://www.youtube.com/watch?v=apII5VFTce0"        
+        },
+        {
+          "titulo": "Akame ga Kill",
+          "url": "https://www.youtube.com/watch?v=ji9BD3ESMqg"
+        },
+        {
+          "titulo": "Bungou to Alchemist",
+          "url": "https://www.youtube.com/watch?v=LHr3QC9JVXM"        
+        }
+      ]
+    },
+    {
+      "titulo": "Ficção Científica",
+      "cor": "#00FDF0",
+      "videos": [
+        {
+          "titulo": "Deca Dence",
+          "url": "https://www.youtube.com/watch?v=CDfCpGU5cgc"
+        },
+        {
+          "titulo": "Ghost in the Shell",
+          "url": "https://www.youtube.com/watch?v=q0z08OpmEPc"
+        },
+        {
+          "titulo": "Gleipnir",
+          "url": "https://www.youtube.com/watch?v=XWfJTaFqDJs"
+        },
+        {
+          "titulo": "Listeners",
+          "url": "https://www.youtube.com/watch?v=g7Yg_v5wZSc"
+        },
+        {
+          "titulo": "Dr. Stone",
+          "url": "https://www.youtube.com/watch?v=WvgN1rH7mKQ"
+        }
+      ]
+    },
+    {
+      "titulo": "Esporte",
+      "cor": "#00FB83",
+      "videos": [
+        {
+          "titulo": "Haikyuu",
           "url": "https://www.youtube.com/watch?v=U19tpn5WUDc"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=a3dn6sR18_4"
+          "titulo": "Kuroko no Basket",
+          "url": "https://www.youtube.com/watch?v=ZYZSwzmgCTU"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=uic4CwVw2I0"
+          "titulo": "Ahiru no Sora",
+          "url": "https://www.youtube.com/watch?v=ySLtdmWwTmo"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=ec0f5VPuy0E"
+          "titulo": "Hoshiai no Sora",
+          "url": "https://www.youtube.com/watch?v=1xsQwWwq-V4"
         },
         {
-          "titulo": "Haikyuu",
-          "url": "https://www.youtube.com/watch?v=9BzWQXVxbKc"
+          "titulo": "Breakers",
+          "url": "https://www.youtube.com/watch?v=9TSz2_q3GG0"
         }
       ]
     },
     {
-      "titulo": "Dragon Ball",
+      "titulo": "Romance",
+      "cor": "pink",
+      "videos": [
+        {
+          "titulo": "Darling in Franxx",
+          "url": "https://www.youtube.com/watch?v=6jmmz5iLI10"
+        },
+        {
+          "titulo": "Inuyasha",
+          "url": "https://www.youtube.com/watch?v=R77COqVtK3E"
+        },
+        {
+          "titulo": "Kaguya-Sama",
+          "url": "https://www.youtube.com/watch?v=UqpdDTeHbd8"
+        },
+        {
+          "titulo": "Kimi no Na Wa",
+          "url": "https://www.youtube.com/watch?v=OpPSdKnkffw"
+        },
+        {
+          "titulo": "Shigatsu wa Kimi no Uso",
+          "url": "https://www.youtube.com/watch?v=CttLGh3S6T4"
+        },{
+          "titulo": "Koe no Katachi",
+          "url": "https://www.youtube.com/watch?v=nfK6UgLra7g"
+        }
+      ]
+    },
+    {
+      "titulo": "Seinen",
       "cor": "red",
       "link_extra": {
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=_1R6-RiClss"
+          "titulo": "Mugen no Juunin",
+          "url": "https://www.youtube.com/watch?v=oCMp3YZBvwg"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=qQVyAdKGkbE"
+          "titulo": "Vinland Saga",
+          "url": "https://www.youtube.com/watch?v=2e1t5VM9jTk"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=L0_nXyTMyqM"
+          "titulo": "Death Note",
+          "url": "https://www.youtube.com/watch?v=ishIBfjKDn4"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=X9IgxlivjO8"
+          "titulo": "Tokyo Ghoul",
+          "url": "https://www.youtube.com/watch?v=ZCCG3oQKu90"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=h8qg-XzHgUk"
-        }
-      ]
-    },
-    {
-      "titulo": "Filmes",
-      "cor": "green",
-      "videos": [
-        {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "DevilMan",
+          "url": "https://www.youtube.com/watch?v=eeoG9Zib13Y"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
-        },
-        {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
-        },
-        {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
-        }
-      ]
-    },
-    {
-      "titulo": "Games",
-      "cor": "red",
-      "link_extra": {
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
-      },
-      "videos": [
-        {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
-        },
-        {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
-        },
-        {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
-        },
-        {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-        },
-        {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Parasyte",
+          "url": "https://www.youtube.com/watch?v=rj63TDpaBWk"
         }
       ]
     }
