@@ -1,0 +1,274 @@
+{
+    "categorias": [
+        {
+            "id": 1,
+            "titulo": "Shounen",
+            "cor": "orange",
+            "link_extra": {
+              "text": "Formação de Front End na Alura",
+              "url": "https://www.alura.com.br/cursos-online-front-end"
+            }
+          }
+          {
+            "id": 2,
+            "titulo": "Ação",
+            "cor": "#AF00FB",
+            "link_extra": {
+              "text": "Formação de Front End na Alura",
+              "url": "https://www.alura.com.br/cursos-online-front-end"
+            }
+          }
+          {
+            "id": 3,
+            "titulo": "Ficção Científica",
+            "cor": "#00FDF0",
+            "link_extra": {
+              "text": "Formação de Front End na Alura",
+              "url": "https://www.alura.com.br/cursos-online-front-end"
+            }
+          }
+          {
+            "id": 4,
+            "titulo": "Esporte",
+            "cor": "#00FB83",
+            "link_extra": {
+              "text": "Formação de Front End na Alura",
+              "url": "https://www.alura.com.br/cursos-online-front-end"
+            }
+          }
+          {
+            "id": 5,
+            "titulo": "Romance",
+            "cor": "pink",
+            "link_extra": {
+              "text": "Formação de Front End na Alura",
+              "url": "https://www.alura.com.br/cursos-online-front-end"
+            }
+          }
+          {
+            "id": 6,
+            "titulo": "Seinen",
+            "cor": "red",
+            "link_extra": {
+              "text": "Formação de Front End na Alura",
+              "url": "https://www.alura.com.br/cursos-online-front-end"
+            }
+          }
+
+       ],
+    "videos": [
+      {
+        "id": 1,
+        "categoriaId": 1,
+        "titulo": "Shokugeki no Souma",
+        "url": "https://www.youtube.com/watch?v=SHTXpNfK2R8"
+      },
+      {
+        "id": 2,
+        "categoriaId": 1,
+        "titulo": "Naruto",
+        "url": "https://www.youtube.com/watch?v=uMyuSHewmks&t=683s"
+      },
+      {
+        "id": 3,
+        "categoriaId": 1,
+        "titulo": "Boku no Hero",
+        "url": "https://www.youtube.com/watch?v=L1FdEBTJXus"
+      },
+      {
+        "id": 4,
+        "categoriaId": 1,
+        "titulo": "Dragon Ball Super",
+        "url": "https://www.youtube.com/watch?v=_1R6-RiClss&t=1s"
+      },
+      {
+        "id": 5,
+        "categoriaId": 1,
+        "titulo": "Kimetsu no Yaiba",
+        "url": "https://www.youtube.com/watch?v=Sl2k7bfBeCw"
+      }, {
+        "id": 6,
+        "categoriaId": 1,
+        "titulo": "Enem no Shouboutai",
+        "url": "https://www.youtube.com/watch?v=ruX5qQ1sheo"
+      }, {
+        "id": 7,
+        "categoriaId": 1,
+        "titulo": "Shingeki no Kyojin",
+        "url": "https://www.youtube.com/watch?v=Dq6rrfZlGP0"
+      },
+      {
+        "id": 8,
+        "categoriaId": 1,
+        "titulo": "Fullmetal Alchemist Brotherhood",
+        "url": "https://www.youtube.com/watch?v=X59yPeVk_70"
+      },
+      {
+        "id": 9,
+        "categoriaId": 1,
+        "titulo": "One Punch Man",
+        "url": "https://www.youtube.com/watch?v=U19tpn5WUDc"
+      },
+      {
+        "id": 10,
+        "categoriaId": 2,
+        "titulo": "Goblin Slayer",
+        "url": "https://www.youtube.com/watch?v=3CK2oKrmMQQ"
+      },
+      {
+        "id": 11,
+        "categoriaId": 2,
+        "titulo": "The God of Highschool",
+        "url": "https://www.youtube.com/watch?v=oqjwUfprNAk"    
+      },{
+        "id": 12,
+        "categoriaId": 2,
+        "titulo": "Tower of God",
+        "url": "https://www.youtube.com/watch?v=apII5VFTce0"   
+      },
+      {
+        "id": 13,
+        "categoriaId": 2,
+        "titulo": "Akame ga Kill",
+        "url": "https://www.youtube.com/watch?v=ji9BD3ESMqg"
+      },
+      {
+        "id": 14,
+        "categoriaId": 2,
+        "titulo": "Bungou to Alchemist",
+        "url": "https://www.youtube.com/watch?v=LHr3QC9JVXM"  
+      },
+      {
+        "id": 15,
+        "categoriaId": 3,
+        "titulo": "Deca Dence",
+        "url": "https://www.youtube.com/watch?v=CDfCpGU5cgc"
+      },
+      {
+        "id": 16,
+        "categoriaId": 3,
+        "titulo": "Ghost in the Shell",
+        "url": "https://www.youtube.com/watch?v=q0z08OpmEPc"
+      },
+      {
+        "id": 17,
+        "categoriaId": 3,
+        "titulo": "Gleipnir",
+        "url": "https://www.youtube.com/watch?v=XWfJTaFqDJs"
+      },
+      {
+        "id": 18,
+        "categoriaId": 3,
+        "titulo": "Listeners",
+        "url": "https://www.youtube.com/watch?v=g7Yg_v5wZSc"
+      },
+      {
+        "id": 19,
+        "categoriaId": 3,
+        "titulo": "Dr. Stone",
+        "url": "https://www.youtube.com/watch?v=WvgN1rH7mKQ"
+      },
+      {
+        "id": 20,
+        "categoriaId": 4,
+        "titulo": "Haikyuu",
+        "url": "https://www.youtube.com/watch?v=U19tpn5WUDc"
+      },
+      {
+        "id": 21,
+        "categoriaId": 4,
+        "titulo": "Kuroko no Basket",
+        "url": "https://www.youtube.com/watch?v=ZYZSwzmgCTU"
+      },
+      {
+        "id": 22,
+        "categoriaId": 4,
+        "titulo": "Ahiru no Sora",
+        "url": "https://www.youtube.com/watch?v=ySLtdmWwTmo"
+      },
+      {
+        "id": 23,
+        "categoriaId": 4,
+        "titulo": "Hoshiai no Sora",
+        "url": "https://www.youtube.com/watch?v=1xsQwWwq-V4"
+      },
+      {
+        "id": 24,
+        "categoriaId": 4,
+        "titulo": "Breakers",
+        "url": "https://www.youtube.com/watch?v=9TSz2_q3GG0"
+      },
+      {
+        "id": 25,
+        "categoriaId": 5,
+        "titulo": "Darling in Franxx",
+        "url": "https://www.youtube.com/watch?v=6jmmz5iLI10"
+      },
+      {
+        "id": 26,
+        "categoriaId": 5,
+        "titulo": "Inuyasha",
+        "url": "https://www.youtube.com/watch?v=R77COqVtK3E"
+      },
+      {
+        "id": 27,
+        "categoriaId": 5,
+        "titulo": "Kaguya-Sama",
+        "url": "https://www.youtube.com/watch?v=UqpdDTeHbd8"
+      },
+      {
+        "id": 28,
+        "categoriaId": 5,
+        "titulo": "Kimi no Na Wa",
+        "url": "https://www.youtube.com/watch?v=OpPSdKnkffw"
+      },
+      {
+        "id": 29,
+        "categoriaId": 5,
+        "titulo": "Shigatsu wa Kimi no Uso",
+        "url": "https://www.youtube.com/watch?v=CttLGh3S6T4"
+      },
+      {
+        "id": 30,
+        "categoriaId": 5,
+        "titulo": "Koe no Katachi",
+        "url": "https://www.youtube.com/watch?v=nfK6UgLra7g"
+      },
+      {
+        "id": 31,
+        "categoriaId": 6,
+        "titulo": "Mugen no Juunin",
+        "url": "https://www.youtube.com/watch?v=oCMp3YZBvwg"
+      },
+      {
+        "id": 32,
+        "categoriaId": 6,
+        "titulo": "Vinland Saga",
+        "url": "https://www.youtube.com/watch?v=2e1t5VM9jTk"
+      },
+      {
+        "id": 33,
+        "categoriaId": 6,
+        "titulo": "Death Note",
+        "url": "https://www.youtube.com/watch?v=ishIBfjKDn4"
+      },
+      {
+        "id": 34,
+        "categoriaId": 6,
+        "titulo": "Tokyo Ghoul",
+        "url": "https://www.youtube.com/watch?v=ZCCG3oQKu90"
+      },
+      {
+        "id": 35,
+        "categoriaId": 6,
+        "titulo": "DevilMan Cry Baby",
+        "url": "https://www.youtube.com/watch?v=eeoG9Zib13Y"
+      },
+      {
+        "id": 36,
+        "categoriaId": 6,
+        "titulo": "Parasyte",
+        "url": "https://www.youtube.com/watch?v=rj63TDpaBWk"
+      }
+    ]
+  }
